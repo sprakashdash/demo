@@ -1,2 +1,2 @@
 # demo
-this is for learning
+this is for learning and fun!
